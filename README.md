@@ -1,1 +1,1 @@
-# IBM-DS-Captsone-Project
+# IBM-DS-Capstone-Project
